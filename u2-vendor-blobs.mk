@@ -43,4 +43,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/u2/proprietary/vendor/bin/pvrsrvctl_SGX540_120:system/vendor/bin/pvrsrvctl_SGX540_120 \
     vendor/lge/u2/proprietary/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/lge/u2/proprietary/bin/glgps:system/bin/glgps \
-    vendor/lge/u2/proprietary/bin/rild:system/bin/rild
+    vendor/lge/u2/proprietary/bin/rild:system/bin/rild \
+    vendor/lge/u2/ringtones/OldTelephone1.mp3:system/media/audio/ringtones/OldTelephone1.mp3 \
+    vendor/lge/u2/ringtones/OldTelephone2.mp3:system/media/audio/ringtones/OldTelephone2.mp3 \
+    vendor/lge/u2/ringtones/OldTelephone3.mp3:system/media/audio/ringtones/OldTelephone3.mp3 \
+    vendor/lge/u2/ringtones/OldTelephone4.mp3:system/media/audio/ringtones/OldTelephone4.mp3 \
+    vendor/lge/u2/ringtones/OldTelephone5.mp3:system/media/audio/ringtones/OldTelephone5.mp3 \
+    vendor/lge/u2/system/priv-app/BetterBatteryStats_xdaedition.apk:system/priv-app/BetterBatteryStats_xdaedition.apk
